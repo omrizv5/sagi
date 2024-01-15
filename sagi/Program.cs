@@ -104,5 +104,27 @@ namespace sagi
 
             RemoveBig(ex5, 3);
         }
+
+
+
+
+
+
+        public static int test (int n)
+        {
+            for (int i = 0; i < n; i++)
+            {
+                for (int i = 0; i < n; i++)
+                {
+
+                }
+            }
+            // O1 = independent
+            // oN = DEPENDANT
+            // o N^2 = DANGER
+            // o Log
+        }
+
+
     }
 }
